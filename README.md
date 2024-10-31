@@ -2,6 +2,14 @@
 Final project: Depth video data-enabled predictions of pig body weight using CNN and vision transformer algorithm
 
 
+
+
+
+### Simple CNN -- the model we used in 2023Spring_DL
+
+
+
+```
 METRICS ON ENTIRE DATASET:
 --------------------------
 Test RMSE:	5.00520
